@@ -5,7 +5,7 @@ on:
 
 defaults:
   run:
-    working-directory: ./spring-docker-dockerhub
+    working-directory: ./src/main/java/no/pgr301
 
 jobs:
   build-deploy:
