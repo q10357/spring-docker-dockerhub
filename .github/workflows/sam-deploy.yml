@@ -5,7 +5,7 @@ on:
 
 defaults:
   run:
-    working-directory: ./src/main/java/no/pgr301
+    working-directory: /src/main/java/no/pgr301
 
 jobs:
   build-deploy:
