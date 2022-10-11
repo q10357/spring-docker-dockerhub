@@ -5,7 +5,7 @@ on:
 
 defaults:
   run:
-    working-directory: ./sentiment-demo
+    working-directory: ./spring-docker-dockerhub
 
 jobs:
   build-deploy:
